@@ -8,7 +8,7 @@ const __dirname = fileURLToPath(new URL(".", import.meta.url));
 
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-  base: "/1a-website/",
+  base: "/",
   build: {
     rollupOptions: {
       input: {

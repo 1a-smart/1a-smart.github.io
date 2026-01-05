@@ -138,7 +138,7 @@ function App() {
           </div>
 
           <img
-            src={`${baseUrl}images/aussenansicht.jpg`}
+            src={`${baseUrl}images/team.jpg`}
             aria-hidden="true"
             className="w-full h-full object-cover lg:[clip-path:polygon(0%_0%,100%_0%,100%_100%,15%_100%)]"
             alt=""

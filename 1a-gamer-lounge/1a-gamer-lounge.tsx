@@ -420,26 +420,23 @@ function App() {
             <h2 className="text-3xl md:text-4xl font-bold mb-6 text-purple-400">Tickets</h2>
             <div className="text-lg text-gray-300 space-y-4">
               <h3 className="text-2xl font-bold text-cyan-400">
-                🎴 DM QUALIFIER – AUGSBURG in der 1A Gamer Lounge 🎴
+                🎮 3vs3 OP16 CASE TURNIER
               </h3>
-              <p>
-                Der Weg zur Meisterschaft beginnt hier. Die 1A Gamer Lounge ruft alle Duellanten,
-                die bereit sind, Geschichte zu schreiben und sich ihren Platz bei der Deutschen GOAT
-                Meisterschaft 2026 zu sichern! 🐐
-              </p>
-              <p>
-                Stell dich der Herausforderung im Yu-Gi-Oh! GOAT Format – Strategie, Erfahrung und
-                Nerven aus Stahl entscheiden über Sieg oder Niederlage.
-              </p>
               <ul className="space-y-2">
-                <li>📅 Datum: 21.03.2026</li>
-                <li>🕛 Start: 12:00 Uhr (Einlass ab 11:00 Uhr)</li>
-                <li>📍 Ort: 1A Gamer Lounge, Jakoberstr. 29, 86152 Augsburg</li>
-                <li>💶 Entry: 15,00 €</li>
-                <li>🥤 Bonus: Jeder Teilnehmer erhält ein Getränk + 1x Suprise Goody Bag</li>
-                <li>👥 Teilnehmer: max. 32 Spieler (bei hoher Nachfrage erweiterbar)</li>
-                <li>📈 Pro 24 Spieler erhält 1 Spieler ein Invite zur DM 2026!</li>
+                <li>📅 Datum: 04.06.2026, Donnerstag (Feiertag)</li>
+                <li>🕦 Turnierbeginn: 11:30 Uhr (Einlass ab 10:30 Uhr)</li>
+                <li>📍 1A Gamer House, Fichtelbachstr. 3, 86153 Augsburg</li>
+                <li>💶 Startgebühr: 110€ pro Team (inkl. 1x TP + 2x OP-Booster p.P.)</li>
+                <li>🎮 Format: Constructed | 3vs3 Ruling | TopCut (Top4)</li>
+                <li>👥 Max. 30 Teams</li>
               </ul>
+              <div>
+                <p className="font-semibold text-white mt-2">🔥 Preispool</p>
+                <p>Pro 2 Teams → 1 OP16-Display (max. 12 Displays)</p>
+                <p className="text-sm text-gray-400 mt-1">Beispiel bei 24 Teams: 1. Platz 5 · 2. Platz 3 · 3.&4. Platz je 2 Displays</p>
+              </div>
+              <p>🎁 Ab 10 Teams: 2 zusätzliche Preisverlosungen während des Events!</p>
+              <p className="text-yellow-400 font-semibold">⚠️ Teamname bitte ins Feld „vollständigen Namen" einfügen!</p>
             </div>
           </div>
 
